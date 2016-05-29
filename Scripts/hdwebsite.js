@@ -1,7 +1,7 @@
 ﻿$(function () {
     $(window).on("load resize", function () {
         $(".fill-screen-half").css("height", 500); 
-        $(".fill-screen-one-third").css("height", 300);
+        $(".fill-screen-one-third").css("height", 350);
     });
 
     $('body').scrollspy({
