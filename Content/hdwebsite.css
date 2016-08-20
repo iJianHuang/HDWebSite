@@ -129,7 +129,8 @@ section .title, section .description, article .description, article .title {
 }
 
 #contributions a {
-    color: black;
+    color: black; 
+    display: inline-block;
     margin: 15px;
 }
 
